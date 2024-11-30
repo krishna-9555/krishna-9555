@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @krishna-9555
 - 👀 I’m interested in ...web devlopment and designing 
-- 🌱 I’m currently learning ... B.tech computer science in AKTU univarsity.
+- 🌱 I’m currently learning ... front-end devlopment
 - 💞️ I’m looking to collaborate on  Devlopment  of design 
 - 📫 How to reach me ... krishnasaxena7376@gmail.com
 - 😄 Pronouns: ... krishna 
